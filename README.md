@@ -27,7 +27,7 @@ python annotate_sentiment_tweeteval.py
 ```
 Plots and tables were generated from the outputted JSONs when shown in the report, these generative scripts were omitted as they were outside the scope of the criteria for the CSCI361 course project.
 
-# Awknowledgements:
+# Acknowledgement:
 Thank you Dr. Milton King for helping me understand NLP, and making the class interesting and motivating throughout!  
 Cheers,  
 Jay  
